@@ -1,0 +1,20 @@
+@charset "utf-8";
+.left_float {
+	margin: right;
+	float: left;
+}
+.aside {
+	float: left;
+}
+.right_float {
+	margin: left;
+	border: thin;
+	float: right;
+	text-align: right;
+}
+.align {
+	align-content: center;
+}
+.borderimg {
+	border: medium;
+}
